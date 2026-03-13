@@ -1,3 +1,9 @@
+# R project files
+*.Rproj
+
+# macOS metadata files
+.DS_Store
+
 # History files
 .Rhistory
 .Rapp.history
